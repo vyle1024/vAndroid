@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">learningfun</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="A_">A a</string>
+    <string name="B_">B b</string>
+    <string name="C_">C c</string>
+    <string name="D_">D d</string>
+    <string name="E_">E e</string>
+    <string name="F_">F f</string>
+    <string name="G_">G g</string>
+    <string name="H_">H h</string>
+    <string name="I_">I i</string>
+    <string name="J_">J j</string>
+    <string name="K_">K k</string>
+    <string name="L_">L l</string>
+    <string name="M_">M m</string>
+    <string name="N_">N n</string>
+    <string name="O_">O o</string>
+    <string name="P_">P p</string>
+    <string name="Q_">Q q</string>
+    <string name="R_">R r</string>
+    <string name="S_">S s</string>
+    <string name="T_">T t</string>
+    <string name="U_">U u</string>
+    <string name="V_">V v</string>
+    <string name="X_">X x</string>
+    <string name="Y_">Y y</string>
+    <string name="Z_">Z z</string>
+    <string name="W_">W w</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
